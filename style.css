@@ -1,0 +1,15 @@
+body{
+background-color: rgb(214, 236, 255);
+ color: black;
+ font-family: "Roboto Mono", monospace;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 700px;
+margin: 0px;
+}
+button{
+background-color: blueviolet;
+ color: antiquewhite;
+ font-family: "Roboto Mono", monospace;
+}
